@@ -9,5 +9,3 @@ reales = 3.1415
 falso = False
 Verdadero = True
 
-nombre = input('ingrese su nombre')
-print('Hola mundo!')
